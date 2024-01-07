@@ -1,0 +1,501 @@
+CustomerID,Age,Gender,Location,MembershipLevel,TotalPurchases,TotalSpent,FavoriteCategory,LastPurchaseDate,Occupation,Churn
+1,42,Female,Beijing,Gold,66,32410.52,Home Goods,12/26/2023,Doctor,0
+2,50,Male,Chengdu,Silver,97,10076.6,Home Goods,1/2/2024,Manager,0
+3,,Male,Shanghai,Gold,61,34417.15,Home Goods,6/14/2023,Manager,0
+4,53,Female,Chongqing,Gold,,6455.82,Personal Care,12/7/2023,Engineer,1
+5,63,Male,Xi'an,Platinum,43,10813.29,Home Goods,9/20/2023,Engineer,0
+6,,Male,Shenzhen,Silver,70,31744.29,Electronics,1/4/2024,Manager,1
+7,24,Female,Tianjin,Gold,,12154.2,Home Goods,10/31/2023,Manager,0
+8,69,Female,Chongqing,Bronze,77,,Home Goods,8/4/2023,Doctor,0
+9,30,Male,Beijing,Gold,61,4782.06,Clothing,11/22/2023,Engineer,0
+10,62,Female,Tianjin,Gold,67,54505.33,Clothing,11/29/2023,Manager,1
+11,55,Female,Chongqing,Platinum,85,54806.71,Home Goods,2/5/2023,Manager,0
+12,49,Female,Shenzhen,Silver,3,2202.52,Electronics,9/21/2023,Doctor,0
+13,39,Female,Beijing,Bronze,19,,Clothing,1/23/2023,Manager,0
+14,19,Male,Shenzhen,Bronze,51,5131.44,Electronics,1/20/2023,Engineer,0
+15,29,Male,Chongqing,Silver,94,,Electronics,7/24/2023,Manager,0
+16,34,Male,Shenzhen,Bronze,83,25568.23,Food,3/13/2023,Manager,1
+17,20,Male,Wuhan,Silver,34,12408.97,Food,11/8/2023,Manager,0
+18,62,Male,Beijing,Silver,21,7326.68,Home Goods,2/18/2023,Salesperson,0
+19,18,Female,Wuhan,Gold,84,30540.73,Home Goods,3/3/2023,Chef,0
+20,47,Male,Hangzhou,Bronze,70,20165.2,Clothing,10/11/2023,Salesperson,1
+21,57,Female,Hangzhou,Silver,,,Food,11/5/2023,Engineer,0
+22,56,Male,Hangzhou,Silver,31,7156.87,Food,5/24/2023,Chef,1
+23,20,Female,Xi'an,Platinum,99,65891.82,Electronics,3/8/2023,Engineer,1
+24,62,Male,Chongqing,Platinum,72,,Electronics,11/25/2023,Salesperson,1
+25,37,Female,Beijing,Platinum,25,13826.91,Electronics,11/8/2023,Teacher,0
+26,43,Female,Hangzhou,Bronze,28,676.16,Electronics,12/30/2023,Chef,0
+27,30,Male,Xi'an,Silver,39,11200.13,Clothing,2/12/2023,Student,1
+28,58,Male,Beijing,Gold,58,46505.93,Electronics,11/17/2023,Teacher,1
+29,25,Male,Chengdu,Bronze,6,301.54,Home Goods,7/29/2023,Doctor,0
+30,65,Female,Chongqing,Platinum,48,,Clothing,3/23/2023,Manager,1
+31,,Male,Guangzhou,Gold,43,14797.85,Home Goods,9/26/2023,Doctor,0
+32,,Female,Guangzhou,Silver,75,22247.67,Food,1/2/2024,Teacher,1
+33,25,Female,Shenzhen,Bronze,40,7511.64,Personal Care,9/29/2023,Doctor,1
+34,39,Female,Wuhan,Bronze,13,7347.88,Food,6/28/2023,Student,1
+35,25,Female,Shanghai,Platinum,55,2609.54,Home Goods,10/1/2023,Teacher,0
+36,,Female,Shanghai,Bronze,11,2266.66,Clothing,1/29/2023,Engineer,0
+37,43,Female,Chongqing,Platinum,,,Clothing,6/10/2023,Doctor,0
+38,34,Male,Wuhan,Silver,46,5697.66,Electronics,12/2/2023,Salesperson,0
+39,25,Female,Wuhan,Gold,27,,Clothing,8/22/2023,Engineer,0
+40,,Female,Hangzhou,Silver,14,13843.24,Food,3/1/2023,Salesperson,1
+41,51,Female,Hangzhou,Platinum,64,40877.71,Clothing,7/23/2023,Teacher,0
+42,39,Female,Hangzhou,Bronze,68,10668.06,Home Goods,8/14/2023,Teacher,1
+43,55,Female,Chongqing,Bronze,11,5734.99,Electronics,1/30/2023,Teacher,0
+44,37,Male,Chongqing,Gold,21,16855.42,Food,12/26/2023,Manager,1
+45,,Male,Xi'an,Bronze,87,69269.72,Personal Care,10/10/2023,Engineer,1
+46,66,Male,Chengdu,Platinum,62,52516.3,Food,8/16/2023,Teacher,0
+47,60,Male,Guangzhou,Gold,65,37346.66,Home Goods,1/30/2023,Student,1
+48,,Female,Wuhan,Platinum,,3581.81,Clothing,4/3/2023,Chef,1
+49,21,Male,Chongqing,Platinum,19,9441.34,Personal Care,9/25/2023,Chef,0
+50,69,Female,Wuhan,Bronze,79,37257.68,Food,1/23/2023,Salesperson,0
+51,19,Male,Xi'an,Silver,81,26784.45,Personal Care,8/31/2023,Teacher,1
+52,68,Female,Shanghai,Bronze,79,55600.93,Personal Care,8/25/2023,Doctor,0
+53,61,Female,Guangzhou,Platinum,38,34873.3,Electronics,7/15/2023,Student,0
+54,,Female,Chongqing,Gold,,19261.56,Home Goods,10/21/2023,Engineer,0
+55,,Female,Chengdu,Bronze,67,44879.68,Personal Care,11/22/2023,Teacher,0
+56,67,Female,Tianjin,Gold,15,2313.5,Personal Care,6/9/2023,Engineer,0
+57,44,Male,Shanghai,Platinum,,,Electronics,10/22/2023,Salesperson,1
+58,19,Female,Hangzhou,Gold,11,3948.76,Electronics,5/17/2023,Engineer,1
+59,40,Male,Beijing,Silver,47,3751.18,Clothing,3/23/2023,Teacher,0
+60,65,Male,Chengdu,Gold,89,,Personal Care,4/1/2023,Teacher,0
+61,47,Male,Chongqing,Gold,91,87321.76,Clothing,1/16/2023,Teacher,1
+62,39,Female,Chengdu,Gold,71,45408.52,Clothing,8/11/2023,Engineer,0
+63,52,Female,Guangzhou,Platinum,19,17978.21,Clothing,5/2/2023,Teacher,0
+64,66,Male,Chengdu,Gold,54,35994.43,Clothing,8/14/2023,Salesperson,0
+65,,Male,Guangzhou,Platinum,39,21655.51,Clothing,8/10/2023,Doctor,1
+66,23,Male,Chongqing,Gold,,77854.29,Electronics,5/24/2023,Engineer,1
+67,64,Female,Chongqing,Silver,48,14418.17,Food,2/8/2023,Teacher,0
+68,35,Male,Tianjin,Silver,90,40653.25,Food,3/15/2023,Salesperson,1
+69,29,Male,Chongqing,Gold,67,10126.5,Food,8/25/2023,Engineer,1
+70,66,Male,Chengdu,Bronze,90,40913.77,Food,1/9/2023,Doctor,0
+71,67,Female,Tianjin,Silver,55,39007.71,Food,2/9/2023,Salesperson,0
+72,52,Female,Chengdu,Bronze,16,4438.04,Electronics,1/6/2023,Salesperson,1
+73,46,Male,Chengdu,Gold,37,,Clothing,8/12/2023,Engineer,0
+74,68,Female,Chengdu,Gold,16,8558.14,Clothing,11/27/2023,Student,0
+75,22,Female,Chengdu,Gold,67,,Personal Care,8/23/2023,Manager,0
+76,44,Female,Chengdu,Gold,57,21550.92,Clothing,3/5/2023,Chef,0
+77,42,Female,Xi'an,Platinum,18,10152.31,Home Goods,5/15/2023,Salesperson,1
+78,,Female,Chongqing,Gold,64,,Electronics,6/17/2023,Teacher,1
+79,21,Male,Beijing,Gold,61,24220.44,Electronics,11/11/2023,Engineer,0
+80,61,Female,Beijing,Gold,6,,Electronics,1/6/2024,Student,1
+81,64,Male,Guangzhou,Gold,25,2860.14,Food,9/25/2023,Salesperson,0
+82,39,Female,Wuhan,Silver,58,54166.18,Clothing,7/17/2023,Teacher,0
+83,29,Female,Hangzhou,Platinum,55,44482.77,Food,9/30/2023,Student,0
+84,46,Male,Xi'an,Bronze,50,,Electronics,11/20/2023,Doctor,0
+85,65,Male,Shenzhen,Gold,79,7565.31,Personal Care,10/8/2023,Student,1
+86,,Female,Beijing,Platinum,75,34504.23,Home Goods,9/20/2023,Teacher,1
+87,35,Male,Beijing,Bronze,21,7482.39,Home Goods,9/2/2023,Teacher,0
+88,,Female,Shenzhen,Platinum,72,66396.82,Food,3/18/2023,Manager,0
+89,,Male,Hangzhou,Gold,69,31821.9,Home Goods,4/10/2023,Manager,0
+90,30,Female,Shanghai,Silver,68,23955.7,Clothing,4/8/2023,Chef,1
+91,37,Female,Chengdu,Platinum,45,39296.52,Clothing,1/22/2023,Manager,0
+92,18,Female,Chongqing,Platinum,7,6425.84,Food,12/30/2023,Salesperson,1
+93,25,Male,Shanghai,Silver,,,Clothing,6/6/2023,Teacher,1
+94,57,Male,Wuhan,Platinum,6,,Clothing,7/4/2023,Teacher,1
+95,40,Female,Wuhan,Bronze,72,64845.32,Personal Care,7/23/2023,Teacher,1
+96,67,Female,Tianjin,Platinum,69,44022.88,Home Goods,4/1/2023,Engineer,0
+97,29,Female,Shenzhen,Silver,37,32596.65,Electronics,10/4/2023,Manager,1
+98,21,Male,Wuhan,Gold,16,15543.01,Personal Care,5/17/2023,Chef,1
+99,32,Male,Shanghai,Gold,87,29061.16,Home Goods,8/24/2023,Doctor,0
+100,26,Male,Tianjin,Gold,47,27710.1,Electronics,10/30/2023,Salesperson,0
+101,29,Male,Guangzhou,Silver,100,50177,Clothing,4/2/2023,Teacher,0
+102,66,Female,Hangzhou,Silver,81,40781.98,Electronics,8/19/2023,Engineer,1
+103,49,Female,Chengdu,Bronze,29,,Clothing,9/4/2023,Salesperson,1
+104,52,Female,Shanghai,Gold,18,10948.73,Clothing,11/2/2023,Student,1
+105,42,Male,Shenzhen,Bronze,41,29897.03,Clothing,5/12/2023,Salesperson,0
+106,34,Female,Guangzhou,Gold,3,1088.38,Personal Care,1/27/2023,Chef,0
+107,40,Male,Chongqing,Bronze,4,996.21,Electronics,3/30/2023,Chef,1
+108,22,Male,Hangzhou,Platinum,,16083.08,Clothing,6/19/2023,Teacher,1
+109,37,Male,Hangzhou,Platinum,49,957.31,Home Goods,7/20/2023,Student,1
+110,66,Male,Xi'an,Bronze,53,50583.93,Clothing,1/7/2023,Teacher,0
+111,23,Female,Shenzhen,Silver,32,30287.95,Clothing,10/4/2023,Student,0
+112,63,Male,Wuhan,Bronze,80,50579.71,Clothing,8/19/2023,Engineer,1
+113,39,Female,Beijing,Bronze,64,6318.28,Home Goods,9/8/2023,Salesperson,0
+114,50,Female,Guangzhou,Platinum,44,12194.22,Food,12/17/2023,Engineer,1
+115,51,Female,Tianjin,Platinum,5,3875.92,Personal Care,7/27/2023,Chef,0
+116,47,Female,Shanghai,Platinum,45,22547.02,Electronics,4/16/2023,Engineer,1
+117,61,Female,Shenzhen,Gold,50,48933.5,Home Goods,3/24/2023,Manager,1
+118,69,Male,Xi'an,Gold,21,,Clothing,5/7/2023,Chef,0
+119,55,Male,Xi'an,Silver,45,16630.25,Home Goods,5/4/2023,Student,1
+120,56,Female,Guangzhou,Bronze,19,,Food,2/21/2023,Engineer,1
+121,60,Female,Xi'an,Silver,9,,Food,4/18/2023,Student,0
+122,51,Male,Shanghai,Silver,75,8921.49,Personal Care,8/25/2023,Manager,1
+123,66,Female,Chengdu,Gold,37,869.45,Home Goods,12/18/2023,Manager,1
+124,,Male,Wuhan,Silver,1,752.55,Clothing,10/20/2023,Chef,1
+125,41,Female,Beijing,Platinum,82,50675.36,Clothing,12/1/2023,Doctor,0
+126,61,Male,Hangzhou,Platinum,3,2200.83,Clothing,8/3/2023,Teacher,1
+127,29,Female,Shanghai,Platinum,31,23144.47,Food,11/18/2023,Student,0
+128,30,Male,Chongqing,Bronze,55,35112.08,Home Goods,4/8/2023,Student,1
+129,57,Female,Shanghai,Gold,4,1990.37,Home Goods,3/21/2023,Salesperson,1
+130,45,Female,Beijing,Platinum,46,38251.48,Clothing,7/31/2023,Doctor,1
+131,70,Male,Wuhan,Platinum,67,9647.1,Electronics,8/1/2023,Doctor,1
+132,18,Male,Shenzhen,Bronze,86,46888.55,Electronics,5/1/2023,Student,0
+133,,Female,Guangzhou,Gold,53,,Personal Care,3/1/2023,Student,1
+134,50,Male,Guangzhou,Silver,18,16407.26,Electronics,9/30/2023,Manager,0
+135,70,Female,Guangzhou,Gold,75,61115.21,Electronics,7/30/2023,Student,1
+136,30,Female,Hangzhou,Gold,34,17756.9,Food,1/6/2024,Teacher,1
+137,53,Male,Beijing,Silver,83,42919.32,Home Goods,11/1/2023,Engineer,0
+138,59,Female,Xi'an,Silver,59,31095.37,Home Goods,12/5/2023,Teacher,1
+139,67,Male,Tianjin,Bronze,67,23446.58,Electronics,2/13/2023,Manager,1
+140,54,Female,Hangzhou,Platinum,66,24316.67,Electronics,2/25/2023,Engineer,0
+141,64,Male,Beijing,Gold,78,15709.94,Food,8/30/2023,Chef,1
+142,68,Female,Beijing,Silver,46,42283.92,Electronics,6/4/2023,Salesperson,1
+143,56,Female,Chengdu,Platinum,53,10009.56,Food,10/26/2023,Teacher,1
+144,22,Female,Shanghai,Bronze,4,1429.11,Clothing,6/3/2023,Chef,0
+145,38,Female,Tianjin,Platinum,61,5468.4,Electronics,7/21/2023,Salesperson,1
+146,19,Male,Shanghai,Gold,46,43957.41,Food,12/26/2023,Teacher,1
+147,20,Male,Wuhan,Gold,21,19844.37,Clothing,3/6/2023,Student,0
+148,58,Male,Xi'an,Gold,4,1952.35,Food,1/22/2023,Teacher,1
+149,39,Male,Shenzhen,Gold,29,4987.57,Food,6/24/2023,Manager,0
+150,42,Male,Guangzhou,Bronze,88,,Clothing,1/6/2024,Engineer,0
+151,70,Female,Tianjin,Bronze,5,283.67,Electronics,8/3/2023,Teacher,0
+152,61,Female,Beijing,Platinum,56,32052.35,Home Goods,9/23/2023,Teacher,1
+153,50,Male,Tianjin,Platinum,10,,Personal Care,9/4/2023,Engineer,1
+154,,Male,Chongqing,Platinum,29,26598.04,Clothing,8/30/2023,Salesperson,0
+155,34,Female,Tianjin,Gold,70,2205.69,Personal Care,10/18/2023,Teacher,1
+156,,Female,Wuhan,Bronze,69,60641.55,Electronics,2/28/2023,Salesperson,0
+157,67,Female,Wuhan,Platinum,14,10024.88,Personal Care,6/24/2023,Teacher,1
+158,48,Female,Guangzhou,Gold,98,49835.67,Home Goods,5/12/2023,Chef,1
+159,67,Female,Tianjin,Bronze,,22837.55,Home Goods,3/12/2023,Manager,1
+160,36,Female,Beijing,Gold,71,31019.99,Food,4/14/2023,Chef,0
+161,,Male,Guangzhou,Bronze,79,28708.13,Electronics,6/12/2023,Salesperson,1
+162,22,Male,Wuhan,Silver,22,,Clothing,3/31/2023,Manager,0
+163,70,Female,Hangzhou,Gold,,73166.96,Electronics,10/26/2023,Student,1
+164,67,Female,Guangzhou,Gold,,41030.22,Home Goods,7/20/2023,Teacher,1
+165,,Female,Shenzhen,Platinum,45,17836.31,Food,7/12/2023,Salesperson,1
+166,70,Male,Guangzhou,Silver,1,,Personal Care,2/14/2023,Student,0
+167,56,Male,Chengdu,Silver,49,4631.64,Electronics,1/10/2023,Doctor,1
+168,38,Male,Chongqing,Gold,75,52478.52,Food,10/30/2023,Teacher,0
+169,,Male,Tianjin,Silver,4,3316.85,Clothing,11/23/2023,Manager,1
+170,56,Male,Chongqing,Platinum,34,1052.55,Clothing,12/8/2023,Teacher,1
+171,54,Male,Wuhan,Bronze,83,49163.66,Home Goods,4/1/2023,Student,1
+172,20,Female,Xi'an,Bronze,35,29219,Food,7/26/2023,Salesperson,1
+173,34,Male,Shenzhen,Gold,21,6498.01,Personal Care,11/6/2023,Teacher,1
+174,22,Male,Chongqing,Platinum,73,69606.3,Personal Care,2/9/2023,Salesperson,0
+175,70,Male,Chengdu,Silver,47,38246,Clothing,9/4/2023,Engineer,0
+176,55,Male,Beijing,Bronze,52,,Personal Care,7/4/2023,Chef,0
+177,48,Female,Hangzhou,Bronze,88,1328.2,Clothing,7/7/2023,Doctor,1
+178,32,Male,Chongqing,Gold,,,Electronics,2/4/2023,Manager,1
+179,32,Female,Wuhan,Silver,30,8850.71,Clothing,10/4/2023,Salesperson,1
+180,36,Female,Xi'an,Silver,100,12826.52,Home Goods,7/8/2023,Salesperson,0
+181,59,Female,Hangzhou,Platinum,,13162.39,Food,10/13/2023,Chef,1
+182,24,Female,Chengdu,Bronze,58,9437.96,Clothing,10/5/2023,Doctor,1
+183,32,Male,Wuhan,Platinum,60,31103.95,Personal Care,11/5/2023,Teacher,1
+184,50,Female,Chongqing,Silver,41,21432.3,Electronics,2/9/2023,Doctor,1
+185,32,Female,Beijing,Bronze,53,5434.8,Clothing,9/28/2023,Teacher,0
+186,29,Female,Beijing,Silver,,108.07,Personal Care,1/8/2023,Engineer,0
+187,23,Female,Shenzhen,Bronze,67,60137.37,Food,1/31/2023,Teacher,0
+188,32,Female,Wuhan,Platinum,1,441.46,Food,12/29/2023,Engineer,1
+189,19,Female,Hangzhou,Gold,87,39965.46,Clothing,8/12/2023,Engineer,1
+190,,Male,Chengdu,Bronze,89,13392.56,Clothing,5/25/2023,Manager,1
+191,30,Female,Tianjin,Bronze,72,8242.21,Food,2/21/2023,Salesperson,1
+192,29,Female,Tianjin,Gold,17,7174.94,Food,2/4/2023,Manager,1
+193,,Male,Chongqing,Silver,45,21858.57,Food,1/15/2023,Chef,0
+194,53,Female,Chongqing,Silver,55,13675.69,Food,6/29/2023,Teacher,1
+195,36,Female,Chongqing,Silver,67,46072.85,Clothing,4/26/2023,Manager,0
+196,21,Male,Hangzhou,Bronze,43,37467.42,Clothing,10/13/2023,Salesperson,1
+197,61,Male,Wuhan,Platinum,25,4395.9,Electronics,10/21/2023,Student,1
+198,66,Male,Hangzhou,Silver,67,61898.2,Personal Care,8/7/2023,Teacher,1
+199,60,Male,Xi'an,Platinum,5,1252.69,Personal Care,11/10/2023,Manager,0
+200,18,Male,Beijing,Silver,32,14361.19,Personal Care,3/29/2023,Chef,0
+201,66,Female,Chengdu,Gold,64,44069.93,Clothing,5/22/2023,Student,1
+202,63,Female,Wuhan,Platinum,85,27569.9,Food,1/31/2023,Teacher,0
+203,66,Male,Wuhan,Platinum,91,49612.27,Home Goods,9/20/2023,Engineer,1
+204,31,Male,Wuhan,Platinum,70,15285.42,Electronics,12/23/2023,Chef,0
+205,51,Female,Chengdu,Platinum,70,37928.11,Electronics,8/15/2023,Chef,1
+206,66,Male,Shenzhen,Platinum,79,60010.76,Home Goods,2/6/2023,Engineer,0
+207,57,Male,Xi'an,Gold,20,9421.89,Electronics,8/11/2023,Doctor,0
+208,,Female,Tianjin,Gold,30,24777.04,Home Goods,12/14/2023,Engineer,0
+209,38,Female,Shanghai,Platinum,56,18269.6,Electronics,2/18/2023,Manager,0
+210,66,Male,Beijing,Bronze,91,39628.03,Electronics,8/24/2023,Doctor,1
+211,25,Female,Chengdu,Gold,79,63598.89,Clothing,10/5/2023,Manager,0
+212,,Male,Guangzhou,Platinum,,1922.35,Home Goods,5/7/2023,Doctor,0
+213,57,Female,Shanghai,Gold,,8373.01,Electronics,11/17/2023,Manager,0
+214,49,Male,Tianjin,Silver,45,4763.15,Clothing,1/5/2024,Chef,0
+215,43,Male,Xi'an,Platinum,45,7487.19,Home Goods,12/28/2023,Manager,0
+216,31,Female,Hangzhou,Silver,36,20357.53,Electronics,2/6/2023,Student,1
+217,37,Female,Beijing,Bronze,79,1894.34,Electronics,3/8/2023,Doctor,0
+218,50,Female,Chongqing,Bronze,54,27415.9,Food,2/20/2023,Manager,1
+219,38,Male,Chengdu,Silver,81,35849.53,Home Goods,1/18/2023,Student,0
+220,58,Female,Shanghai,Gold,41,40095.15,Home Goods,1/24/2023,Chef,0
+221,62,Male,Chengdu,Bronze,50,21220.5,Personal Care,3/30/2023,Doctor,1
+222,46,Male,Wuhan,Gold,22,,Clothing,9/21/2023,Salesperson,1
+223,19,Male,Shanghai,Gold,13,10740.85,Clothing,12/23/2023,Engineer,1
+224,51,Female,Shanghai,Silver,64,18487.93,Food,6/13/2023,Chef,0
+225,28,Female,Shenzhen,Silver,20,4581.91,Home Goods,10/21/2023,Teacher,1
+226,52,Male,Guangzhou,Silver,93,39357.28,Clothing,4/5/2023,Manager,0
+227,55,Male,Shenzhen,Gold,91,67755.4,Food,10/22/2023,Student,0
+228,21,Female,Guangzhou,Platinum,65,25611.59,Food,7/20/2023,Salesperson,0
+229,26,Male,Tianjin,Bronze,11,224.86,Clothing,10/5/2023,Salesperson,1
+230,44,Female,Wuhan,Gold,93,7985.8,Clothing,8/8/2023,Chef,0
+231,20,Male,Tianjin,Bronze,89,40209.55,Food,9/22/2023,Student,0
+232,56,Female,Beijing,Silver,45,30158.1,Home Goods,11/5/2023,Doctor,1
+233,,Male,Chongqing,Silver,78,31429.14,Food,4/26/2023,Teacher,1
+234,70,Female,Hangzhou,Gold,82,49778.93,Food,8/6/2023,Chef,1
+235,61,Male,Shenzhen,Platinum,28,7630.16,Clothing,7/11/2023,Student,1
+236,39,Female,Wuhan,Gold,,53530.33,Personal Care,1/25/2023,Chef,0
+237,34,Female,Shanghai,Bronze,26,15631.66,Home Goods,12/30/2023,Engineer,0
+238,29,Male,Hangzhou,Gold,2,,Electronics,1/14/2023,Teacher,1
+239,70,Male,Wuhan,Platinum,95,35116.3,Home Goods,2/7/2023,Salesperson,0
+240,62,Male,Guangzhou,Bronze,77,41300.99,Home Goods,10/3/2023,Student,1
+241,30,Female,Guangzhou,Silver,64,42336.89,Personal Care,8/10/2023,Salesperson,0
+242,18,Male,Wuhan,Bronze,83,54046.82,Clothing,7/9/2023,Salesperson,1
+243,39,Male,Beijing,Gold,18,5813.31,Home Goods,7/3/2023,Salesperson,1
+244,35,Male,Chongqing,Silver,14,7242.28,Personal Care,9/24/2023,Manager,1
+245,44,Male,Xi'an,Platinum,99,13378.8,Electronics,8/8/2023,Engineer,0
+246,65,Female,Chengdu,Bronze,88,67469.77,Home Goods,4/17/2023,Engineer,1
+247,,Male,Beijing,Bronze,78,1924.77,Clothing,11/27/2023,Salesperson,1
+248,68,Female,Beijing,Gold,81,66549.64,Electronics,9/20/2023,Chef,0
+249,21,Male,Wuhan,Bronze,7,4221.64,Food,2/24/2023,Chef,1
+250,44,Female,Tianjin,Bronze,96,80492.27,Personal Care,2/28/2023,Teacher,0
+251,55,Male,Shanghai,Platinum,37,10182.14,Clothing,6/2/2023,Engineer,0
+252,51,Male,Beijing,Gold,20,15499.3,Personal Care,2/24/2023,Engineer,1
+253,18,Female,Guangzhou,Gold,75,56516.28,Electronics,5/22/2023,Doctor,1
+254,,Female,Chongqing,Bronze,11,3546.1,Food,10/17/2023,Manager,1
+255,53,Female,Tianjin,Bronze,29,4416.29,Food,11/5/2023,Manager,1
+256,27,Male,Guangzhou,Silver,5,1951.03,Personal Care,2/18/2023,Engineer,1
+257,54,Female,Hangzhou,Platinum,52,30969.13,Home Goods,10/5/2023,Manager,1
+258,50,Female,Shenzhen,Bronze,93,36273.49,Home Goods,5/11/2023,Manager,0
+259,33,Male,Chongqing,Bronze,48,21161.18,Personal Care,4/5/2023,Engineer,0
+260,20,Female,Beijing,Gold,24,8340.04,Food,7/2/2023,Salesperson,0
+261,69,Male,Chongqing,Gold,88,,Clothing,12/9/2023,Student,1
+262,51,Male,Wuhan,Gold,88,77432.11,Food,3/25/2023,Engineer,1
+263,57,Male,Xi'an,Platinum,41,23886.9,Food,8/2/2023,Student,0
+264,50,Female,Wuhan,Silver,48,18584.28,Clothing,3/24/2023,Teacher,1
+265,47,Male,Xi'an,Gold,,50944.68,Home Goods,4/5/2023,Student,1
+266,53,Male,Tianjin,Bronze,58,28131.44,Clothing,8/13/2023,Manager,0
+267,63,Male,Tianjin,Platinum,27,8121.75,Home Goods,7/12/2023,Doctor,1
+268,,Male,Beijing,Silver,26,15804.84,Clothing,11/11/2023,Salesperson,0
+269,,Female,Chongqing,Platinum,,34850.51,Food,1/26/2023,Engineer,0
+270,39,Male,Chengdu,Platinum,40,22099.08,Food,11/14/2023,Salesperson,1
+271,32,Male,Shanghai,Bronze,65,64352.69,Personal Care,7/13/2023,Chef,0
+272,54,Male,Beijing,Bronze,13,10729.55,Home Goods,2/9/2023,Manager,1
+273,,Male,Xi'an,Silver,36,10891.05,Clothing,8/10/2023,Teacher,0
+274,26,Male,Chengdu,Platinum,39,5998.82,Personal Care,4/15/2023,Engineer,0
+275,60,Female,Guangzhou,Silver,76,2053.79,Personal Care,9/4/2023,Chef,0
+276,66,Female,Shanghai,Gold,77,56912.51,Electronics,11/29/2023,Student,0
+277,65,Male,Wuhan,Silver,19,9312.22,Electronics,7/9/2023,Teacher,0
+278,47,Female,Chongqing,Silver,84,,Home Goods,9/10/2023,Teacher,0
+279,40,Female,Chengdu,Gold,69,,Home Goods,3/27/2023,Manager,1
+280,,Male,Wuhan,Bronze,76,69113.83,Electronics,7/14/2023,Teacher,1
+281,27,Female,Chengdu,Silver,98,77751.64,Electronics,4/13/2023,Doctor,1
+282,50,Male,Hangzhou,Platinum,95,68847.74,Personal Care,2/21/2023,Chef,0
+283,59,Male,Chengdu,Platinum,67,51174.29,Food,3/24/2023,Teacher,1
+284,23,Male,Tianjin,Platinum,16,,Food,10/7/2023,Teacher,0
+285,30,Male,Shenzhen,Bronze,77,29583.56,Electronics,11/26/2023,Manager,0
+286,51,Male,Shenzhen,Platinum,12,2394.6,Electronics,7/13/2023,Manager,0
+287,,Female,Xi'an,Platinum,83,75847.35,Food,8/28/2023,Manager,0
+288,40,Female,Shenzhen,Bronze,26,11599.51,Personal Care,9/12/2023,Student,0
+289,27,Male,Chongqing,Platinum,,,Home Goods,5/29/2023,Chef,1
+290,60,Male,Xi'an,Bronze,64,24119.25,Personal Care,9/2/2023,Teacher,0
+291,44,Male,Beijing,Platinum,37,5643.88,Home Goods,10/3/2023,Teacher,0
+292,50,Female,Hangzhou,Bronze,47,42517.88,Clothing,3/20/2023,Doctor,1
+293,59,Female,Wuhan,Bronze,19,,Home Goods,8/24/2023,Teacher,0
+294,56,Female,Hangzhou,Silver,75,11783.87,Personal Care,6/12/2023,Chef,0
+295,25,Male,Guangzhou,Platinum,69,,Clothing,11/9/2023,Doctor,1
+296,54,Male,Hangzhou,Bronze,13,6491.32,Personal Care,1/22/2023,Student,0
+297,,Female,Xi'an,Gold,90,51017.95,Food,3/7/2023,Chef,0
+298,61,Male,Chongqing,Silver,2,468.42,Personal Care,9/10/2023,Student,0
+299,58,Male,Xi'an,Silver,9,1030.95,Electronics,4/15/2023,Salesperson,1
+300,55,Female,Beijing,Bronze,19,15755.4,Food,1/28/2023,Doctor,1
+301,58,Female,Wuhan,Bronze,38,24942.33,Clothing,10/17/2023,Manager,0
+302,33,Male,Chongqing,Gold,2,1535.13,Food,8/5/2023,Manager,0
+303,63,Female,Xi'an,Platinum,26,7936.68,Food,8/31/2023,Doctor,0
+304,69,Female,Chengdu,Bronze,48,7368.4,Electronics,5/27/2023,Chef,1
+305,21,Female,Tianjin,Platinum,60,36910.57,Personal Care,10/5/2023,Teacher,0
+306,18,Female,Shanghai,Platinum,91,24071.91,Food,11/24/2023,Doctor,1
+307,26,Female,Chengdu,Silver,89,2259.53,Home Goods,4/12/2023,Chef,0
+308,60,Male,Wuhan,Gold,42,26284.19,Clothing,5/7/2023,Student,0
+309,59,Male,Shenzhen,Gold,98,70933.42,Food,6/16/2023,Chef,1
+310,45,Female,Wuhan,Gold,75,8588.4,Electronics,7/29/2023,Salesperson,0
+311,24,Male,Tianjin,Platinum,84,,Food,8/27/2023,Engineer,1
+312,21,Female,Xi'an,Silver,39,11145.23,Electronics,7/29/2023,Chef,1
+313,18,Male,Beijing,Bronze,,33244.43,Food,11/11/2023,Teacher,1
+314,60,Female,Chengdu,Silver,58,23566.56,Electronics,1/8/2023,Doctor,0
+315,37,Male,Tianjin,Gold,12,1336,Personal Care,4/22/2023,Engineer,0
+316,25,Male,Chongqing,Silver,22,10352.95,Clothing,6/16/2023,Student,0
+317,53,Female,Beijing,Bronze,,,Food,3/23/2023,Chef,1
+318,32,Female,Xi'an,Gold,,10348.98,Electronics,8/9/2023,Manager,0
+319,36,Female,Tianjin,Gold,61,38588.37,Food,11/24/2023,Chef,1
+320,40,Female,Guangzhou,Silver,29,26131.38,Home Goods,8/29/2023,Doctor,1
+321,57,Female,Shenzhen,Bronze,14,6505.69,Personal Care,11/1/2023,Teacher,0
+322,70,Female,Xi'an,Gold,71,10051.27,Food,6/6/2023,Salesperson,1
+323,41,Male,Shenzhen,Silver,9,4459.05,Clothing,9/4/2023,Chef,1
+324,57,Female,Shenzhen,Bronze,55,1792.61,Food,9/25/2023,Doctor,0
+325,,Female,Wuhan,Platinum,91,47200.72,Home Goods,1/30/2023,Engineer,0
+326,40,Female,Wuhan,Platinum,83,57984.34,Clothing,4/20/2023,Salesperson,0
+327,58,Female,Chengdu,Platinum,20,8101.89,Food,12/7/2023,Salesperson,1
+328,48,Female,Chengdu,Platinum,75,48738.13,Clothing,5/13/2023,Salesperson,1
+329,46,Female,Shanghai,Silver,43,,Electronics,8/22/2023,Teacher,0
+330,70,Female,Shanghai,Bronze,23,21706.06,Electronics,3/31/2023,Teacher,0
+331,59,Female,Wuhan,Silver,38,15309.56,Home Goods,12/22/2023,Engineer,0
+332,,Male,Shanghai,Bronze,61,49814.01,Home Goods,10/1/2023,Doctor,1
+333,43,Male,Xi'an,Gold,43,32787.83,Electronics,1/28/2023,Chef,1
+334,32,Female,Chengdu,Silver,49,42988.08,Food,1/21/2023,Student,0
+335,41,Male,Chengdu,Gold,8,89.29,Personal Care,1/22/2023,Student,0
+336,48,Male,Xi'an,Silver,3,2844.14,Personal Care,2/25/2023,Engineer,0
+337,63,Male,Xi'an,Bronze,26,21384.86,Food,6/13/2023,Engineer,1
+338,63,Female,Tianjin,Silver,70,7759.69,Home Goods,9/30/2023,Salesperson,0
+339,23,Male,Tianjin,Silver,13,9514.52,Food,11/29/2023,Manager,1
+340,53,Female,Chengdu,Silver,73,,Clothing,8/15/2023,Student,1
+341,65,Female,Hangzhou,Gold,3,53.69,Clothing,4/10/2023,Chef,0
+342,59,Male,Guangzhou,Bronze,63,46450.42,Clothing,4/17/2023,Doctor,0
+343,20,Male,Hangzhou,Gold,,25622.83,Electronics,7/8/2023,Salesperson,0
+344,58,Female,Hangzhou,Silver,82,10215.75,Clothing,5/15/2023,Salesperson,0
+345,35,Female,Tianjin,Gold,5,3207,Clothing,5/30/2023,Student,1
+346,52,Female,Guangzhou,Gold,6,4482.45,Home Goods,9/27/2023,Doctor,1
+347,18,Female,Shenzhen,Silver,33,12394.97,Personal Care,8/26/2023,Teacher,1
+348,30,Male,Wuhan,Gold,89,60661.82,Home Goods,1/8/2023,Student,0
+349,39,Male,Wuhan,Silver,75,41486.02,Clothing,12/6/2023,Engineer,0
+350,47,Female,Xi'an,Gold,45,16720.44,Electronics,6/8/2023,Teacher,1
+351,32,Female,Xi'an,Bronze,86,74814.25,Clothing,8/19/2023,Salesperson,1
+352,66,Female,Guangzhou,Silver,87,37808.09,Food,11/4/2023,Chef,0
+353,34,Male,Guangzhou,Bronze,39,35567.03,Clothing,2/11/2023,Teacher,1
+354,29,Female,Chengdu,Platinum,42,22809.88,Food,7/4/2023,Engineer,1
+355,56,Female,Chengdu,Gold,93,27160.51,Personal Care,7/13/2023,Salesperson,0
+356,45,Female,Wuhan,Bronze,3,1261.06,Electronics,12/20/2023,Doctor,0
+357,19,Female,Wuhan,Gold,,33869.3,Food,7/28/2023,Chef,1
+358,55,Male,Xi'an,Bronze,,28250.78,Home Goods,6/12/2023,Teacher,0
+359,28,Female,Guangzhou,Platinum,,34750.08,Clothing,7/4/2023,Student,1
+360,,Female,Tianjin,Silver,100,5447.26,Personal Care,4/13/2023,Student,0
+361,37,Male,Tianjin,Silver,19,1391.03,Home Goods,3/18/2023,Engineer,1
+362,48,Male,Xi'an,Bronze,18,11386.52,Personal Care,2/25/2023,Doctor,0
+363,37,Female,Guangzhou,Platinum,48,,Electronics,11/24/2023,Manager,0
+364,37,Female,Xi'an,Gold,24,18547.63,Food,6/3/2023,Chef,0
+365,23,Female,Chengdu,Platinum,56,37670.18,Food,2/28/2023,Student,0
+366,66,Female,Shenzhen,Gold,10,8112.6,Food,5/4/2023,Doctor,1
+367,39,Male,Guangzhou,Platinum,17,12033.36,Clothing,7/7/2023,Engineer,1
+368,64,Female,Guangzhou,Bronze,85,27450.83,Home Goods,12/14/2023,Chef,0
+369,25,Female,Hangzhou,Gold,40,13597.89,Electronics,3/16/2023,Chef,1
+370,58,Male,Guangzhou,Silver,61,58499.02,Electronics,9/24/2023,Doctor,0
+371,21,Female,Shanghai,Platinum,60,29387.48,Clothing,9/21/2023,Engineer,0
+372,27,Male,Wuhan,Bronze,,3367.73,Personal Care,2/12/2023,Student,1
+373,70,Female,Guangzhou,Platinum,90,24674.53,Home Goods,8/23/2023,Chef,1
+374,34,Male,Guangzhou,Bronze,28,17945.72,Home Goods,9/10/2023,Salesperson,0
+375,39,Female,Chengdu,Platinum,8,1189.01,Clothing,7/8/2023,Teacher,0
+376,26,Female,Wuhan,Bronze,,35442.73,Electronics,5/4/2023,Teacher,0
+377,57,Female,Chongqing,Gold,,74057.1,Food,12/1/2023,Chef,1
+378,67,Female,Beijing,Silver,35,,Personal Care,9/22/2023,Engineer,1
+379,,Male,Shanghai,Bronze,59,,Personal Care,7/30/2023,Manager,1
+380,44,Female,Xi'an,Gold,30,29955.63,Food,2/28/2023,Chef,0
+381,,Female,Guangzhou,Bronze,11,6230.09,Electronics,11/13/2023,Student,0
+382,21,Female,Chengdu,Silver,99,7136.28,Electronics,10/10/2023,Chef,0
+383,68,Female,Wuhan,Gold,54,11756.01,Electronics,8/12/2023,Teacher,0
+384,46,Male,Wuhan,Silver,100,20915.54,Personal Care,8/26/2023,Student,1
+385,66,Female,Chengdu,Platinum,44,23250.53,Food,5/7/2023,Doctor,1
+386,46,Female,Wuhan,Gold,52,51586.29,Home Goods,12/11/2023,Engineer,0
+387,63,Female,Chengdu,Platinum,55,40806.86,Clothing,12/8/2023,Teacher,1
+388,30,Male,Xi'an,Silver,10,8706.97,Home Goods,7/9/2023,Manager,0
+389,55,Male,Chongqing,Bronze,62,58124.54,Food,12/26/2023,Engineer,0
+390,51,Male,Shanghai,Bronze,76,11093.61,Personal Care,3/24/2023,Doctor,1
+391,24,Male,Wuhan,Platinum,17,5819.05,Personal Care,3/21/2023,Teacher,1
+392,56,Female,Shanghai,Silver,54,45436.38,Electronics,10/7/2023,Teacher,0
+393,,Female,Chengdu,Gold,,9925.04,Home Goods,7/25/2023,Student,0
+394,43,Male,Beijing,Silver,44,19397.43,Clothing,10/26/2023,Salesperson,0
+395,39,Male,Chongqing,Platinum,39,9849.9,Electronics,5/12/2023,Teacher,0
+396,53,Female,Chongqing,Bronze,80,,Clothing,10/1/2023,Manager,1
+397,61,Female,Shanghai,Platinum,35,16573.75,Electronics,6/3/2023,Engineer,1
+398,69,Male,Guangzhou,Gold,43,13108.44,Clothing,7/4/2023,Salesperson,0
+399,56,Female,Guangzhou,Platinum,4,1222.9,Clothing,12/20/2023,Student,0
+400,23,Female,Tianjin,Platinum,,44518.64,Clothing,12/3/2023,Student,1
+401,26,Female,Xi'an,Silver,,1121.89,Electronics,3/21/2023,Chef,0
+402,19,Female,Hangzhou,Gold,46,27324.56,Food,12/4/2023,Chef,0
+403,37,Female,Wuhan,Silver,97,71730.15,Food,1/12/2023,Student,1
+404,63,Female,Shenzhen,Gold,38,,Clothing,9/28/2023,Doctor,0
+405,69,Male,Hangzhou,Platinum,20,,Home Goods,9/23/2023,Manager,0
+406,43,Male,Shanghai,Silver,50,20879.97,Electronics,9/10/2023,Teacher,0
+407,31,Female,Chongqing,Bronze,99,17607.19,Clothing,10/13/2023,Manager,0
+408,46,Female,Shenzhen,Bronze,64,5282.18,Electronics,8/11/2023,Teacher,1
+409,66,Male,Tianjin,Gold,74,54998.85,Personal Care,2/7/2023,Doctor,0
+410,57,Female,Chengdu,Silver,75,23306.59,Personal Care,6/6/2023,Engineer,1
+411,35,Female,Shanghai,Gold,73,11504.78,Electronics,9/27/2023,Student,1
+412,18,Female,Shenzhen,Platinum,73,34337.32,Electronics,3/11/2023,Manager,1
+413,52,Male,Beijing,Bronze,,1633.08,Food,8/12/2023,Chef,0
+414,59,Male,Beijing,Bronze,51,20977.56,Home Goods,3/10/2023,Salesperson,0
+415,60,Female,Wuhan,Silver,66,53687.25,Personal Care,4/6/2023,Engineer,1
+416,,Male,Shenzhen,Gold,59,43108.88,Personal Care,3/19/2023,Engineer,0
+417,25,Female,Hangzhou,Gold,94,29300.09,Clothing,3/13/2023,Chef,1
+418,35,Male,Wuhan,Bronze,97,55596.68,Food,3/6/2023,Salesperson,0
+419,44,Female,Guangzhou,Platinum,,55348.22,Home Goods,12/8/2023,Chef,0
+420,31,Female,Chongqing,Silver,74,54135.32,Personal Care,2/16/2023,Teacher,1
+421,19,Female,Shanghai,Silver,,77095.79,Personal Care,8/20/2023,Teacher,1
+422,34,Male,Hangzhou,Silver,6,3119.55,Food,9/7/2023,Doctor,1
+423,67,Male,Shenzhen,Gold,25,8596.36,Electronics,9/17/2023,Doctor,1
+424,41,Female,Beijing,Gold,90,10500.93,Home Goods,3/18/2023,Doctor,0
+425,33,Male,Shenzhen,Platinum,16,,Home Goods,9/6/2023,Doctor,1
+426,19,Male,Tianjin,Platinum,88,10421.43,Clothing,7/12/2023,Chef,0
+427,24,Female,Tianjin,Gold,,3586.37,Electronics,4/21/2023,Student,1
+428,29,Female,Chengdu,Silver,69,40327.83,Clothing,2/4/2023,Student,0
+429,,Female,Chengdu,Gold,14,11111.87,Clothing,6/24/2023,Chef,1
+430,50,Male,Shanghai,Platinum,52,40047.85,Home Goods,11/2/2023,Doctor,1
+431,27,Female,Beijing,Platinum,89,71375.99,Food,8/11/2023,Engineer,0
+432,43,Male,Chengdu,Bronze,,51834.86,Personal Care,12/24/2023,Manager,0
+433,54,Male,Wuhan,Platinum,68,25438.81,Clothing,3/7/2023,Chef,0
+434,25,Male,Chengdu,Gold,63,32486.29,Food,10/17/2023,Manager,0
+435,39,Male,Beijing,Gold,20,2236.52,Home Goods,8/16/2023,Teacher,0
+436,65,Male,Chongqing,Platinum,,12646.35,Personal Care,2/8/2023,Engineer,1
+437,34,Female,Shenzhen,Gold,34,24676.14,Electronics,10/26/2023,Salesperson,0
+438,20,Male,Chongqing,Gold,98,33459.69,Food,1/13/2023,Chef,1
+439,58,Male,Hangzhou,Gold,,41894.43,Food,3/21/2023,Salesperson,1
+440,43,Male,Tianjin,Bronze,41,1392.2,Clothing,2/9/2023,Teacher,0
+441,,Female,Shenzhen,Gold,32,31881.33,Electronics,10/12/2023,Chef,1
+442,38,Female,Beijing,Bronze,59,16654.5,Food,3/25/2023,Chef,1
+443,18,Male,Beijing,Silver,74,73369.01,Electronics,2/9/2023,Student,0
+444,60,Male,Shenzhen,Platinum,33,10526.12,Home Goods,10/2/2023,Manager,1
+445,59,Female,Xi'an,Bronze,32,,Clothing,12/24/2023,Engineer,0
+446,24,Male,Xi'an,Bronze,76,63772.61,Personal Care,6/14/2023,Chef,1
+447,43,Male,Xi'an,Gold,91,47948.38,Clothing,8/17/2023,Manager,1
+448,61,Female,Xi'an,Bronze,59,33921.69,Clothing,12/10/2023,Doctor,1
+449,,Male,Hangzhou,Gold,90,46672.93,Food,6/18/2023,Manager,1
+450,38,Male,Wuhan,Gold,96,1608.44,Electronics,11/9/2023,Chef,1
+451,,Male,Tianjin,Silver,74,50053.72,Electronics,12/14/2023,Engineer,0
+452,37,Female,Shanghai,Bronze,64,47574.91,Home Goods,11/15/2023,Manager,1
+453,68,Female,Shenzhen,Platinum,78,35286.04,Food,4/28/2023,Engineer,1
+454,24,Female,Shanghai,Silver,50,23089.99,Home Goods,4/18/2023,Chef,0
+455,63,Male,Tianjin,Platinum,60,15988.15,Electronics,2/6/2023,Chef,0
+456,53,Male,Chengdu,Gold,43,15754.09,Food,9/8/2023,Teacher,1
+457,48,Male,Tianjin,Gold,41,37946.39,Personal Care,8/23/2023,Engineer,1
+458,19,Female,Xi'an,Silver,46,41398.2,Home Goods,9/17/2023,Salesperson,0
+459,46,Male,Shenzhen,Gold,30,3671.43,Electronics,5/25/2023,Student,1
+460,59,Male,Hangzhou,Bronze,87,1962.67,Home Goods,3/25/2023,Teacher,1
+461,24,Female,Tianjin,Bronze,34,3864,Electronics,1/10/2023,Salesperson,1
+462,,Male,Hangzhou,Platinum,75,25881.63,Home Goods,4/1/2023,Chef,0
+463,46,Male,Wuhan,Gold,6,,Clothing,9/24/2023,Engineer,0
+464,19,Female,Guangzhou,Silver,74,36816.35,Food,6/13/2023,Salesperson,1
+465,29,Male,Hangzhou,Gold,95,33079.72,Home Goods,3/31/2023,Engineer,0
+466,67,Male,Guangzhou,Gold,73,12656.14,Electronics,10/23/2023,Teacher,0
+467,23,Male,Guangzhou,Silver,53,20937.74,Home Goods,4/21/2023,Student,0
+468,33,Male,Hangzhou,Gold,44,4198.38,Personal Care,9/10/2023,Doctor,1
+469,22,Female,Shenzhen,Gold,74,19224.64,Clothing,3/25/2023,Manager,0
+470,56,Male,Tianjin,Bronze,41,24028.94,Personal Care,8/22/2023,Engineer,0
+471,40,Female,Chongqing,Gold,58,11198.28,Food,5/18/2023,Doctor,0
+472,34,Male,Hangzhou,Platinum,99,8919.67,Home Goods,4/14/2023,Chef,1
+473,70,Male,Wuhan,Silver,,4319.43,Food,1/4/2024,Salesperson,0
+474,66,Male,Hangzhou,Silver,4,1786.71,Personal Care,10/28/2023,Engineer,0
+475,42,Female,Xi'an,Silver,56,730.56,Personal Care,3/31/2023,Manager,1
+476,49,Female,Wuhan,Platinum,,2534.97,Clothing,11/17/2023,Doctor,0
+477,50,Female,Guangzhou,Platinum,30,21626.64,Home Goods,1/13/2023,Salesperson,1
+478,48,Female,Tianjin,Silver,40,22876.31,Electronics,7/5/2023,Teacher,1
+479,31,Female,Beijing,Gold,80,34984.92,Clothing,12/5/2023,Teacher,1
+480,26,Female,Xi'an,Silver,99,13274.91,Food,7/31/2023,Chef,1
+481,41,Female,Xi'an,Silver,4,2988.13,Food,9/3/2023,Salesperson,1
+482,37,Male,Chengdu,Platinum,,13709.1,Personal Care,4/4/2023,Student,1
+483,69,Male,Guangzhou,Platinum,98,92344.91,Electronics,10/2/2023,Student,1
+484,30,Female,Wuhan,Bronze,40,11103.65,Clothing,10/8/2023,Doctor,0
+485,28,Female,Shenzhen,Silver,,909.61,Home Goods,8/4/2023,Doctor,0
+486,21,Female,Xi'an,Gold,14,5873.34,Home Goods,9/24/2023,Manager,1
+487,24,Male,Beijing,Gold,,40411.61,Food,10/23/2023,Chef,0
+488,25,Female,Wuhan,Bronze,,74960.66,Home Goods,11/20/2023,Manager,1
+489,64,Male,Beijing,Bronze,17,6674.35,Home Goods,10/29/2023,Doctor,1
+490,51,Female,Tianjin,Bronze,14,8702.94,Clothing,3/24/2023,Chef,1
+491,27,Male,Shanghai,Bronze,,29594.53,Food,8/2/2023,Chef,0
+492,44,Male,Hangzhou,Bronze,14,13085.34,Clothing,4/16/2023,Chef,0
+493,,Female,Wuhan,Silver,27,574.9,Personal Care,4/19/2023,Chef,0
+494,50,Male,Xi'an,Gold,82,70951.66,Home Goods,7/11/2023,Salesperson,0
+495,,Male,Xi'an,Bronze,34,14887.97,Electronics,10/19/2023,Engineer,1
+496,39,Male,Xi'an,Gold,13,3225.65,Home Goods,10/21/2023,Engineer,0
+497,43,Female,Guangzhou,Gold,29,4035.25,Clothing,1/21/2023,Manager,0
+498,47,Female,Tianjin,Silver,55,47865.3,Clothing,8/22/2023,Engineer,1
+499,29,Female,Shanghai,Platinum,58,12171.56,Food,4/12/2023,Salesperson,0
+500,,Female,Guangzhou,Silver,,29926.06,Food,4/12/2023,Teacher,0
